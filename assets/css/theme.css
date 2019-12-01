@@ -1,0 +1,17 @@
+.mt-1 {
+    margin-top: 20px;
+}
+.panel-heading.theme-color, .panel-footer.theme-color {
+    background: #febe00;
+    color: black;
+}
+.btn.btn-dark {
+    background: black;
+    color: white;
+}
+.panel-default.theme-color {
+    border-color: #febe00;
+}
+a.link-color {
+    color: #254c6e;
+}
